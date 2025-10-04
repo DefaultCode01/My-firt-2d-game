@@ -26,6 +26,16 @@ O foco atual do desenvolvimento está em implementar **mecânicas de crafting, H
 
 ---
 
+## 📸 Capturas do Jogo
+
+*(Substitua as URLs abaixo pelas imagens do seu jogo)*
+
+![Exemplo de movimentação](https://via.placeholder.com/400x200?text=Movimentacao)
+![Exemplo de ataque](https://via.placeholder.com/400x200?text=Ataque)
+![Exemplo do mapa](https://via.placeholder.com/400x200?text=Mapa)
+
+---
+
 ## 📚 Aprendizado e Contexto
 
 Este projeto faz parte do meu aprendizado contínuo em **desenvolvimento de jogos e programação em C#**.  
@@ -33,7 +43,7 @@ Estou realizando o curso **presencial de Unity e C# no SENAC**, em paralelo ao c
 
 ---
 
-## 📸 Futuras Atualizações
+## 🚀 Futuras Atualizações
 
 Em versões futuras, o jogo receberá:
 - 🪓 Sistema de crafting completo  
@@ -50,8 +60,8 @@ Em versões futuras, o jogo receberá:
 🎓 Técnico em Informática • Estudante de Análise e Desenvolvimento de Sistemas (Anhanguera)  
 💡 Apaixonado por tecnologia, programação e desenvolvimento de jogos.  
 
-📫 [LinkedIn](www.linkedin.com/in/matheus-da-silva-gomes-baa89a23b) 
-🐙 [GitHub](https://github.com/DefaultCode01)  
+📫 [LinkedIn](https://www.linkedin.com/in/matheus-da-silva-gomes-baa89a23b)  
+🐙 [GitHub](https://github.com/DefaultCode01)
 
 ---
 
