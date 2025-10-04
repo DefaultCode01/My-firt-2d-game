@@ -12,9 +12,9 @@ O foco atual do desenvolvimento está em implementar **mecânicas de crafting, H
 
 ### ⚙️ Mecânicas já implementadas:
 - ✅ Movimentação do personagem no mapa (top-down)
-- ✅ Animações de andar, correr e atacar
-- ✅ Sistema de colisões e física 2D
-- 🚧 Em desenvolvimento: Crafting, HUD e sistema de diálogo
+- ✅ Animações de andar, rolar e corre.
+- ✅ Sistema  basicio de colisões
+- 🚧 Em desenvolvimento: Mapa do jogo/cenario, Crafting, HUD e sistema de diálogo, animações e melhorias na movimentação.
 
 ---
 
