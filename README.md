@@ -1,7 +1,7 @@
 # 🎮 Meu primeiro Game 2d — Jogo 2D RPG em Desenvolvimento
 
 Um **jogo 2D estilo top-down com mecânicas de RPG**, desenvolvido na **Unity com C#**.  
-Projeto criado durante o curso **“Games 2D para Iniciantes” do Wenes Soares**, com o objetivo de aprender conceitos fundamentais de desenvolvimento de jogos, animações e programação.
+Projeto criado durante o curso **“Start Game Dev” do Wenes Soares**, com o objetivo de aprender conceitos fundamentais de desenvolvimento de jogos, animações e programação.
 
 ---
 
