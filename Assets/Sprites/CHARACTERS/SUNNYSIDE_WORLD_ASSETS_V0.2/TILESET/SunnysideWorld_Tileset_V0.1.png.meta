@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -9112,10 +9124,11 @@ TextureImporter:
       SunnysideWorld_Tileset_V0.1_113: 147589028
       SunnysideWorld_Tileset_V0.1_170: 941984590
       SunnysideWorld_Tileset_V0.1_233: 753472150
-      SunnysideWorld_Tileset_V0.1_49: -449345553
+      SunnysideWorld_Tileset_V0.1_230: 394984813
       SunnysideWorld_Tileset_V0.1_62: -857815993
-      SunnysideWorld_Tileset_V0.1_408: -1427506791
       SunnysideWorld_Tileset_V0.1_168: 1428004344
+      SunnysideWorld_Tileset_V0.1_408: -1427506791
+      SunnysideWorld_Tileset_V0.1_49: -449345553
       SunnysideWorld_Tileset_V0.1_218: -1608554176
       SunnysideWorld_Tileset_V0.1_209: -41744458
       SunnysideWorld_Tileset_V0.1_355: -1692625706
@@ -9123,7 +9136,6 @@ TextureImporter:
       SunnysideWorld_Tileset_V0.1_150: 633440032
       SunnysideWorld_Tileset_V0.1_223: -1221513587
       SunnysideWorld_Tileset_V0.1_42: 359888124
-      SunnysideWorld_Tileset_V0.1_230: 394984813
       SunnysideWorld_Tileset_V0.1_196: -2026808873
       SunnysideWorld_Tileset_V0.1_56: -1779208332
       SunnysideWorld_Tileset_V0.1_400: 448894987

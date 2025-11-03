@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d38e50f44f2a28f43ac76e0ee9a46522, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5939949563337715198, guid: 0a9bb30deb954bc4cbf6e2fbab345eee, type: 3}
+  speakerSprites: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: 
+    profile: {fileID: -1190631652, guid: 780a0f365c65ce540ab422b5d7c1f149, type: 3}
+    sentence:
+      portuguese: "Ol\xE1 seu desagrad\xE1vel!!"
+      english: 
+      espanish: 
+  - actorName: 
+    profile: {fileID: -1190631652, guid: 780a0f365c65ce540ab422b5d7c1f149, type: 3}
+    sentence:
+      portuguese: "Bem vindo ao reino de Lothl\xF3rien"
+      english: 
+      espanish: 
+  - actorName: 
+    profile: {fileID: -1190631652, guid: 780a0f365c65ce540ab422b5d7c1f149, type: 3}
+    sentence:
+      portuguese: "Voce n\xE3o possui os itens necessarisos para entrar nessa vila. "
+      english: 
+      espanish: 
+  - actorName: 
+    profile: {fileID: -1190631652, guid: 780a0f365c65ce540ab422b5d7c1f149, type: 3}
+    sentence:
+      portuguese: "Para entrar nessa vila voce precisa realizar algumas miss\xF5es"
+      english: 
+      espanish: 
+  - actorName: 
+    profile: {fileID: -1190631652, guid: 780a0f365c65ce540ab422b5d7c1f149, type: 3}
+    sentence:
+      portuguese: "volta e colete 10 troncos de arvores e traga eles at\xE9 aqui
+        e voce poder\xE1 entrar"
+      english: 
+      espanish: 

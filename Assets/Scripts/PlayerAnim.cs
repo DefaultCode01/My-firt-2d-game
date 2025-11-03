@@ -28,15 +28,15 @@ public class PlayerAnim : MonoBehaviour
     {
         if (player.direction.sqrMagnitude > 0)
         {
-            if(player.isRolling)
+            if (player.isRolling)
             {
-               anim.SetTrigger("isRoll");
+                anim.SetTrigger("isRoll");
             }
             else
             {
                 anim.SetInteger("transition", 1);
             }
-            
+
         }
         else
         {
@@ -52,6 +52,10 @@ public class PlayerAnim : MonoBehaviour
         {
 
             transform.eulerAngles = new Vector2(0, 180);
+        }
+        if (player.IsCutting)
+        {
+            anim.SetInteger("transition", 3);
         }
 
     }

@@ -1,68 +1,51 @@
-# 🎮 My Project — Jogo 2D RPG em Desenvolvimento
+## 🎮 Versão 1.0 — Primeira Versão Jogável Completa
 
-Um **jogo 2D estilo top-down com mecânicas de RPG**, desenvolvido na **Unity com C#**.  
-Projeto criado durante o curso **“Games 2D para Iniciantes” do Wenes Soares**, com o objetivo de aprender conceitos fundamentais de desenvolvimento de jogos, animações e programação.
-
----
-
-## 🧠 Sobre o Projeto
-
-Este jogo é um **RPG simples** onde o jogador pode se movimentar livremente pelo mapa, interagir com o ambiente e realizar ações básicas.  
-O foco atual do desenvolvimento está em implementar **mecânicas de crafting, HUD e diálogos com NPCs**.
-
-### ⚙️ Mecânicas já implementadas:
-- ✅ Movimentação do personagem no mapa (top-down)
-- ✅ Animações de andar, correr e atacar
-- ✅ Sistema de colisões e física 2D
-- 🚧 Em desenvolvimento: Crafting, HUD e sistema de diálogo
+### 🆕 Novidades e Melhorias
+Esta é a **primeira versão oficial (1.0)** do meu jogo 2D estilo **RPG top-down**, desenvolvida na **Unity com C#**.  
+Depois de diversas melhorias e testes, esta build traz várias novas mecânicas e elementos visuais que tornam o jogo muito mais interativo e imersivo.
 
 ---
 
-## 🧩 Tecnologias Utilizadas
-
-- 🎮 **Unity Engine**
-- 💻 **C# (Visual Studio Code)**
-- 🖼️ Sprites 2D e animações criadas e configuradas dentro da Unity
-
----
-
-## 📸 Capturas do Jogo
-
-*(Substitua as URLs abaixo pelas imagens do seu jogo)*
-
-![Exemplo de movimentação](https://via.placeholder.com/400x200?text=Movimentacao)
-![Exemplo de ataque](https://via.placeholder.com/400x200?text=Ataque)
-![Exemplo do mapa](https://via.placeholder.com/400x200?text=Mapa)
-
----
-
-## 📚 Aprendizado e Contexto
-
-Este projeto faz parte do meu aprendizado contínuo em **desenvolvimento de jogos e programação em C#**.  
-Estou realizando o curso **presencial de Unity e C# no SENAC**, em paralelo ao curso online do **Wenes Soares**, aplicando na prática os conceitos aprendidos em ambos.
+#### ⚙️ Funcionalidades Implementadas
+✅ **Animações do jogador:** andar, correr e idle agora estão totalmente funcionais  
+✅ **Sistema básico de Crafting:**  
+ • O jogador pode usar o machado para atacar árvores  
+ • As árvores podem ser derrubadas após alguns golpes  
+ • As madeiras caem como drops coletáveis  
+✅ **Sistema de Diálogo com NPCs:**  
+ • Interface de diálogo com caixa de texto e botão para avançar as falas  
+ • NPC com falas simples e funcionais  
+✅ **IA básica para NPCs:** movimentação automática pelo mapa seguindo caminhos predefinidos  
+✅ **Melhorias visuais gerais:**  
+ • Interface de diálogo aprimorada  
+ • Ajustes de colisão e movimentação  
+ • Refinamentos na lógica do jogo para maior estabilidade  
 
 ---
 
-## 🚀 Futuras Atualizações
-
-Em versões futuras, o jogo receberá:
-- 🪓 Sistema de crafting completo  
-- 💬 Diálogo interativo com NPCs  
-- 🧱 Construção e plantação  
-- ❤️ Interface HUD com status do personagem  
-- ⚔️ Sistema de combate aprimorado  
+### 🚧 Em Desenvolvimento
+🔹 Expansão do sistema de crafting com novos recursos e receitas  
+🔹 HUD com status do personagem (vida, stamina, inventário)  
+🔹 Sistema de construção e plantação  
+🔹 Combate aprimorado e novos inimigos  
+🔹 Novos NPCs e missões  
 
 ---
 
-## 👨‍💻 Autor
+### 🧠 Sobre o Projeto
+Este jogo é parte do meu **processo de aprendizado em desenvolvimento de jogos**.  
+Atualmente, estudo **Unity e C#** no **SENAC**, em paralelo ao curso “Start Game Dev” do **Wenes Soares**, aplicando todos os conceitos aprendidos na prática.
 
+---
+
+### 👨‍💻 Autor
 **Matheus da Silva Gomes**  
 🎓 Técnico em Informática • Estudante de Análise e Desenvolvimento de Sistemas (Anhanguera)  
-💡 Apaixonado por tecnologia, programação e desenvolvimento de jogos.  
+💡 Apaixonado por tecnologia, programação e desenvolvimento de jogos  
 
 📫 [LinkedIn](https://www.linkedin.com/in/matheus-da-silva-gomes-baa89a23b)  
 🐙 [GitHub](https://github.com/DefaultCode01)
 
 ---
 
-> 🚀 *“Cada linha de código é um passo mais perto de transformar ideias em realidade.”*
+> 🚀 “Cada linha de código é um passo mais perto de transformar ideias em realidade.”
