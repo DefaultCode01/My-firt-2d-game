@@ -1,52 +1,49 @@
-## 🎮 Versão 1.0 — Primeira Versão Jogável Completa
+# Dungeons hunter
 
-### 🆕 Novidades e Melhorias
-Esta é a **primeira versão oficial (1.0)** do meu jogo 2D estilo **RPG top-down**, desenvolvida na **Unity com C#**.  
-Depois de diversas melhorias e testes, esta build traz várias novas mecânicas e elementos visuais que tornam o jogo muito mais interativo e imersivo.
+Jogo 2D estilo **RPG top-down**, desenvolvido na **Unity com C#** como projeto
+independente e de aprendizado em desenvolvimento de jogos.
 
----
+## 🎮 Sobre o jogo
+O jogo apresenta exploração de mapa, interação com NPCs, sistema básico de
+crafting e progressão contínua de funcionalidades.
 
-#### ⚙️ Funcionalidades Implementadas
-✅ **Animações do jogador:** andar, correr e idle agora estão totalmente funcionais  
-✅ **Sistema básico de Crafting:**  
- • O jogador pode usar o machado para atacar árvores  
- • As árvores podem ser derrubadas após alguns golpes  
- • As madeiras caem como drops coletáveis  
-✅ **Sistema de Diálogo com NPCs:**  
- • Interface de diálogo com caixa de texto e botão para avançar as falas  
- • NPC com falas simples e funcionais  
-✅ **IA básica para NPCs:** movimentação automática pelo mapa seguindo caminhos predefinidos  
-✅ **Melhorias visuais gerais:**  
- • Interface de diálogo aprimorada  
- • Ajustes de colisão e movimentação  
- • Refinamentos na lógica do jogo para maior estabilidade  
+## 🆕 Última atualização
+**Versão 1.1**
+- Adicionada tela inicial com menu (Iniciar, Créditos e Sair)
+- Ajustes na troca de telas e cenários
+- Build atualizada para 64 bits
 
----
+## 🕹️ Funcionalidades
+- Movimentação do jogador com animações (andar, correr, idle)
+- Sistema básico de crafting (coleta de madeira)
+- Sistema de diálogo com NPCs
+- IA simples para NPCs
+- Menu inicial funcional
 
-### 🚧 Em Desenvolvimento
-🔹 Expansão do sistema de crafting com novos recursos e receitas  
-🔹 HUD com status do personagem (vida, stamina, inventário)  
-🔹 Sistema de construção e plantação  
-🔹 Combate aprimorado e novos inimigos  
-🔹 Novos NPCs e missões  
+## 🎛️ Controles
+- WASD / Setas – Movimentação
+- Espaço – Interação / Ação
+- ESC – Menu
 
----
+## 🛠️ Tecnologias
+- Unity
+- C#
+- Build 64 bits
 
-### 🧠 Sobre o Projeto
-Este jogo é parte do meu **processo de aprendizado em desenvolvimento de jogos**.  
-Atualmente, estudo **Unity e C#** no **SENAC**, em paralelo ao curso “Start Game Dev” do **Wenes Soares**, aplicando todos os conceitos aprendidos na prática.
+## 🚧 Em desenvolvimento
+- Expansão do sistema de crafting
+- HUD do personagem (vida, stamina, inventário)
+- Sistema de construção e plantação
+- Combate aprimorado e novos inimigos
+- Novos NPCs e missões
 
----
+## 📜 Changelog
+O histórico completo de alterações está disponível em  
+[CHANGELOG.md](CHANGELOG.md).
 
-### 👨‍💻 Autor
+## 👨‍💻 Autor
 **Matheus da Silva Gomes**  
-🎓 Técnico em Informática • Estudante de Análise e Desenvolvimento de Sistemas (Anhanguera)  
-💡 Apaixonado por tecnologia, programação e desenvolvimento de jogos  
+Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor de Jogos  
 
-📫 [LinkedIn](https://www.linkedin.com/in/matheus-da-silva-gomes-baa89a23b)  
-🐙 [GitHub](https://github.com/DefaultCode01)
-
----
-
-> 🚀 “Cada linha de código é um passo mais perto de transformar ideias em realidade.”
-
+🔗 LinkedIn: https://www.linkedin.com/in/matheus-da-silva-gomes-baa89a23b  
+🐙 GitHub: https://github.com/DefaultCode01
