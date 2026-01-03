@@ -49,3 +49,4 @@ Atualmente, estudo **Unity e C#** no **SENAC**, em paralelo ao curso “Start Ga
 ---
 
 > 🚀 “Cada linha de código é um passo mais perto de transformar ideias em realidade.”
+

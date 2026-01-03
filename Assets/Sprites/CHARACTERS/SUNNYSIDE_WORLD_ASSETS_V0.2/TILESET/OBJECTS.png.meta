@@ -113,6 +113,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -456,8 +468,8 @@ TextureImporter:
       name: OBJECTS_16
       rect:
         serializedVersion: 2
-        x: 19
-        y: 853
+        x: 0
+        y: 1017
         width: 25
         height: 7
       alignment: 0
@@ -1691,6 +1703,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: OBJECTS_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 572
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fbdce22dee204ca8657f3c31edfba
+      internalID: -16715564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJECTS_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 853
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.58184624, y: 0.5861495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b4b2ae94647b42a8743f83468e236
+      internalID: -1795334305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBJECTS_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 854
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ae8f38502e8748ae0586b5cce8da8
+      internalID: -824822296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1729,11 +1804,12 @@ TextureImporter:
       OBJECTS_48: -577274767
       OBJECTS_52: 2033572276
       OBJECTS_11: 174435690
-      OBJECTS_35: -52886998
+      OBJECTS_58: -1494077647
       OBJECTS_26: -1324690453
+      OBJECTS_35: -52886998
       OBJECTS_7: -833844548
-      OBJECTS_54: 92108524
       OBJECTS_36: -278761264
+      OBJECTS_54: 92108524
       OBJECTS_34: -1486960246
       OBJECTS_45: -361098701
       OBJECTS_70: 353741050
@@ -1742,7 +1818,6 @@ TextureImporter:
       OBJECTS_24: -1263992269
       OBJECTS_72: 1269168554
       OBJECTS_63: 524479942
-      OBJECTS_58: -1494077647
       OBJECTS_73: 718038484
       OBJECTS_67: -1489225951
       OBJECTS_28: 1461464430
@@ -1758,6 +1833,7 @@ TextureImporter:
       OBJECTS_3: 994523218
       OBJECTS_18: 2146186031
       OBJECTS_32: 372348131
+      OBJECTS_77: -824822296
       OBJECTS_16: 1427238930
       OBJECTS_9: -1699742247
       OBJECTS_62: 1318002051
@@ -1772,9 +1848,11 @@ TextureImporter:
       OBJECTS_15: -2005353818
       OBJECTS_46: -1053006868
       OBJECTS_59: 1728764680
+      OBJECTS_76: -1795334305
       OBJECTS_53: -1427086040
       OBJECTS_43: -213747153
       OBJECTS_68: -2030270174
+      OBJECTS_75: -16715564
       OBJECTS_29: 1169181860
       OBJECTS_20: 991751959
   spritePackingTag: 

@@ -6,8 +6,6 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-   
-
     public float speed;
     private float inicialSpeed;
     private int index;
@@ -64,5 +62,5 @@ public class NPC : MonoBehaviour
 
     
 
-        }
+            }
 }
