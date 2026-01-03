@@ -22,7 +22,7 @@ Seguindo o padrão [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
 ---
-## [v1.0] – 02/11/2025 — Primeira Versão Jogável Completa
+## [v1.0] – 02/11/2025 — Primeira Versão Jogável.
 ### 🆕 Novidades
 - Implementadas **animações do jogador**: andar, correr e idle.  
 - Sistema básico de **Crafting**:
